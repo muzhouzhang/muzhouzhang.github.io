@@ -15,13 +15,21 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% if site.profile %}
+          <img src="{{site.profile | relative_url}}" style="margin-bottom: 15px;"/>
         {% endif %}
+        
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <img src="{{site.logo | relative_url}}" style="margin-bottom: 15px;"/>
+        
+        <p>{{ site.address }}</p>
+
+        <p style = "color:#003e5c">Email: {{ site.email }}</p>
+
+        <p><a href="{{ site.googlescholar }}" target="_blank"> Google Scholar </a></p>
+
+        <p><a href="{{ site.orcid }}" target="_blank"> ORCID </a></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>

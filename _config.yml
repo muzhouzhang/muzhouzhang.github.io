@@ -1,6 +1,10 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Muzhou Zhang
+profile: /assets/img/profile.jpg
+logo: /assets/img/Logo-Statskundskab-pos-UK.png
+address: 1340-131<br>Bartholins Allé 7<br> 8000 Aarhus, Denmark
+email: mz[at]ps.au.dk
+googlescholar: https://scholar.google.com/citations?user=rsTHwPMAAAAJ&hl=en&oi=ao
+orcid: https://orcid.org/0000-0001-5122-5814
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
