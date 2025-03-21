@@ -26,7 +26,7 @@ layout: default
 "Funding Loss and Damage for Immigration Control?" (with Muhammad M. Hussain)
 <ul style = "margin-bottom: 0;">
 <li style = "margin-bottom: 0;">Data collection underway</li>
-<li  style = "margin-bottom: 0;">Pre-analysis plan preregistered [<a href = https://osf.io/da8hw/?view_only=9a464c32d9224fffb67dea088e67e5f5>OSF page</a>]</li>
+<li style = "margin-bottom: 0;">Pre-analysis plan preregistered on <a href = "https://osf.io/da8hw/?view_only=9a464c32d9224fffb67dea088e67e5f5" target = "_blank">OSF</a></li>
 </ul>
 </li>
 
