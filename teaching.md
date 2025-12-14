@@ -4,36 +4,52 @@ layout: default
 
 ## Teaching
 
-<ul style = "padding-left: 1.2em; padding-top: 10px;">
+<style>
+  .course-title {
+    display: block;
+  }
+</style>
+
+#### Courses Taught as Instructor of Record
+
+<ul style="padding-left: 1.2em; padding-top: 0px;">
 
 <li>
-I have a diploma from the Aarhus University Pedagogical Programme (autumn 2024, 150-hour training)
+  <span class="course-title">Understanding Chinese Politics and China's Impact on the World</span>
+  <ul style="margin-bottom: 0;">
+    <li style="margin-bottom: 0;"><a href="/docs/muzhou-zhang-syllabus-chinese-politics-aarhus.pdf" target="_blank">[Syllabus]</a></li>
+    <li style="margin-bottom: 0;">Autumn 2025, Aarhus University</li>
+    <li style="margin-bottom: 0;">Master's seminar</li>
+  </ul>
 </li>
 
 <li>
-Comparative Climate Politics <a href = "/docs/Syllabus-Comparative-Climate-Politics-214F25-Muzhou-Zhang.pdf" target = "_blank">[Syllabus]</a>
-<ul style = "margin-bottom: 0;">
-<li style = "margin-bottom: 0;">Spring 2025, Aarhus University</li>
-<li style = "margin-bottom: 0;">Instructor of record, master's</li>
+  <span class="course-title">Comparative Climate Politics</span>
+  <ul style="margin-bottom: 0;">
+    <li style="margin-bottom: 0;"><a href="/docs/muzhou-zhang-syllabus-climate-politics-aarhus.pdf" target="_blank">[Syllabus]</a></li>
+    <li style="margin-bottom: 0;">Spring 2025, Aarhus University</li>
+    <li style="margin-bottom: 0;">Master's seminar</li>
+  </ul>
+</li>
+
+<li>
+  <span class="course-title">Spatial Econometrics (with Martin C. Steinwand)</span>
+  <ul style="margin-bottom: 0;">
+    <li style="margin-bottom: 0;">2024–2025, Essex Summer School in Social Science Data Analysis</li>
+  </ul>
+</li>
+
 </ul>
-</li>
 
-<li>
-Political Institutions
-<ul style = "margin-bottom: 0;">
-<li style = "margin-bottom: 0;">Spring 2024, Aarhus University</li>
-<li style = "margin-bottom: 0;">Discussion class teacher, bachelor's (4th semester)</li>
-</ul>
-</li>
+#### Courses Taught in Other Capacities
 
-<li>
-Spatial Econometrics
-<ul style = "margin-bottom: 0;">
-<li style = "margin-bottom: 0;">Essex Summer School in Social Science Data Analysis</li>
-<li style = "margin-bottom: 0;">Instructor of record (with Martin C. Steinwand)</li>
-</ul>
-</li>
-
+<ul style="padding-left: 1.2em;">
+  <li>Political Institutions (Bachelor's, Aarhus)</li>
+  <li>Advanced Research Methods (Master's, Essex)</li>
+  <li>Conflict Analysis (Bachelor's, Essex)</li>
+  <li>Advanced Quantitative Political Analysis (Bachelor's, Essex)</li>
+  <li>Longitudinal Data Analysis (Essex Summer School)</li>
+  <li>Introduction to GIS, Geospatial Data, and Spatial Analysis (Essex Summer School)</li>
 </ul>
 
 <p><a href="/index">[Return to homepage]</a></p>
