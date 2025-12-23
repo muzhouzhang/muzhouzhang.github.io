@@ -36,7 +36,7 @@ Funding loss and damage to reduce immigration?
 <br>
 (with Muhammad Mohsin Hussain)
   <p align="right">
-    <a href = "https://doi.org/10.31219/osf.io/k23fm_v2" target = "_blank">[Working paper]</a> <a href = "https://osf.io/da8hw/files/4ktph?view_only=9a464c32d9224fffb67dea088e67e5f5" target = "_blank">[Pre-analysis plan]</a>
+    <a href = "https://doi.org/10.31219/osf.io/k23fm_v3" target = "_blank">[Working paper]</a> <a href = "https://osf.io/da8hw/files/4ktph?view_only=9a464c32d9224fffb67dea088e67e5f5" target = "_blank">[Pre-analysis plan]</a>
   </p>
 </li>
 
