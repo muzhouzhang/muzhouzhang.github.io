@@ -34,7 +34,6 @@ layout: default
 
 <li>
   <span class="course-title">Spatial econometrics</span>
-  <br>
   <i>with</i> Martin C. Steinwand
   <ul style="margin-bottom: 0;">
     <li style="margin-bottom: 0;"><a href="/docs/martin-steinwand-muzhou-zhang-syllabus-spatial-econometrics-essex.pdf" target="_blank">[Syllabus]</a></li>
