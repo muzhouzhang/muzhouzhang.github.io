@@ -33,7 +33,7 @@ layout: default
 </li>
 
 <li>
-  <span class="course-title">Spatial sconometrics (with Martin C. Steinwand)</span>
+  <span class="course-title">Spatial econometrics (with Martin C. Steinwand)</span>
   <ul style="margin-bottom: 0;">
     <li style="margin-bottom: 0;"><a href="/docs/martin-steinwand-muzhou-zhang-syllabus-spatial-econometrics-essex.pdf" target="_blank">[Syllabus]</a></li>
     <li style="margin-bottom: 0;">2024–2025, Essex Summer School in Social Science Data Analysis</li>
