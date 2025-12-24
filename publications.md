@@ -10,7 +10,7 @@ layout: default
   <span class="year">2025</span>
   Are foreign firms good for the environment? FDI and protected areas
   <br>
-  (with Ana Carolina Garriga)
+  <i>with</i> Ana Carolina Garriga
   <br>
   <em>International Interactions</em> 51 (2): 224&ndash;263
   <p align="right">
@@ -22,7 +22,7 @@ layout: default
   <span class="year">2024</span>
   Supporting environmental protection in good and bad economic circumstances
   <br>
-  (with Tobias Böhmelt)
+  <i>with</i> Tobias Böhmelt
   <br>
   <em>Environmental Politics</em> 33 (2): 302&ndash;320
   <p align="right">
